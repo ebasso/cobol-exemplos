@@ -11,7 +11,7 @@ cobc -x -o bin/prog001_divisoes -std=default prog001_divisoes.cob && ./bin/prog0
 ## Programas Disponíveis
 
 | Aplicativos             |  Descrição                                            |   Funcionalidades da Linguagem Cobol |
-|-------------|-----------|-------------------------------------------------------|--------------------------------------|
+|-------------------------|-------------------------------------------------------|--------------------------------------|
 | prog001_divisoes.cob	  | Divisões de um programa cobol.                        | Divisions, Sections, ....
 | prog002_operacoes.cob	  | Operações aritméticas em um program cobol.            | Adição, Subtração, Multiplicação e Divisão| em Cobol|
 | prog003_calculadora.cob	| Exemplo prático de programa ***Calculadora****.       | Leitura e Manipulação de Strings,  Operações aritméticas|
